@@ -12,7 +12,7 @@ export default class About extends Component {
           style={{ backgroundImage: `URL(${AboutImage})` }}
         ></div>
         <div className="aboutBottom">
-          <h1>About</h1>
+          <h1>About </h1>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque
             sapiente nostrum debitis excepturi asperiores. Repellat, eveniet
