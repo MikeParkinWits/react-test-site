@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-test-site/static/css/main.fd6e61d6.css",
-    "main.js": "/react-test-site/static/js/main.8f4bd66d.js",
-    "static/js/787.8adb1dee.chunk.js": "/react-test-site/static/js/787.8adb1dee.chunk.js",
-    "static/media/HomepageBanner.jpg": "/react-test-site/static/media/HomepageBanner.503630aa0de90ed1d66e.jpg",
-    "static/media/h.jpg": "/react-test-site/static/media/h.28d3dfba47d35c477271.jpg",
-    "static/media/MoogOne.jpg": "/react-test-site/static/media/MoogOne.98b4c7d5d803f94f6059.jpg",
-    "static/media/MoogDFAM.jpg": "/react-test-site/static/media/MoogDFAM.a267cd4c666ef592cb15.jpg",
-    "static/media/Logos.png": "/react-test-site/static/media/Logos.4edf56f6badae9050ea4.png",
-    "static/media/MoogMatriarch.jpg": "/react-test-site/static/media/MoogMatriarch.2cfe099533cd6d52a1ba.jpg",
-    "static/media/MoogGrandmother.jpg": "/react-test-site/static/media/MoogGrandmother.e37db98006bcde01077e.jpg",
-    "static/media/MoogWAH.jpg": "/react-test-site/static/media/MoogWAH.74ac046bf1a099412d6f.jpg",
-    "static/media/MoogSub.jpg": "/react-test-site/static/media/MoogSub.6a37ed4851a9a64ecb01.jpg",
-    "index.html": "/react-test-site/index.html",
-    "main.fd6e61d6.css.map": "/react-test-site/static/css/main.fd6e61d6.css.map",
-    "main.8f4bd66d.js.map": "/react-test-site/static/js/main.8f4bd66d.js.map",
-    "787.8adb1dee.chunk.js.map": "/react-test-site/static/js/787.8adb1dee.chunk.js.map"
+    "main.css": "/static/css/main.fd6e61d6.css",
+    "main.js": "/static/js/main.22a331c0.js",
+    "static/js/787.8adb1dee.chunk.js": "/static/js/787.8adb1dee.chunk.js",
+    "static/media/HomepageBanner.jpg": "/static/media/HomepageBanner.503630aa0de90ed1d66e.jpg",
+    "static/media/h.jpg": "/static/media/h.28d3dfba47d35c477271.jpg",
+    "static/media/MoogOne.jpg": "/static/media/MoogOne.98b4c7d5d803f94f6059.jpg",
+    "static/media/MoogDFAM.jpg": "/static/media/MoogDFAM.a267cd4c666ef592cb15.jpg",
+    "static/media/Logos.png": "/static/media/Logos.4edf56f6badae9050ea4.png",
+    "static/media/MoogMatriarch.jpg": "/static/media/MoogMatriarch.2cfe099533cd6d52a1ba.jpg",
+    "static/media/MoogGrandmother.jpg": "/static/media/MoogGrandmother.e37db98006bcde01077e.jpg",
+    "static/media/MoogWAH.jpg": "/static/media/MoogWAH.74ac046bf1a099412d6f.jpg",
+    "static/media/MoogSub.jpg": "/static/media/MoogSub.6a37ed4851a9a64ecb01.jpg",
+    "index.html": "/index.html",
+    "main.fd6e61d6.css.map": "/static/css/main.fd6e61d6.css.map",
+    "main.22a331c0.js.map": "/static/js/main.22a331c0.js.map",
+    "787.8adb1dee.chunk.js.map": "/static/js/787.8adb1dee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6e61d6.css",
-    "static/js/main.8f4bd66d.js"
+    "static/js/main.22a331c0.js"
   ]
 }
