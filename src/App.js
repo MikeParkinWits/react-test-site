@@ -14,7 +14,7 @@ function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/react-test-site" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<About />} />
