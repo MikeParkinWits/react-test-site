@@ -15,7 +15,7 @@ export default class Home extends Component {
         <div className="headerContainer">
           <h1>Moog Music</h1>
           <p>The Home of Synth</p>
-          <Link to="/menu">
+          <Link to="/react-test-site/menu">
             {" "}
             <button>ORDER NOW</button>
           </Link>
