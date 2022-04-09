@@ -29,17 +29,17 @@ export default class Navbar extends Component {
         <div className="leftSide" id={this.state.openLinks ? "open" : "close"}>
           <img src={Logo} />
           <div className="hiddenLinks">
-            <Link to="/">Home</Link>
-            <Link to="/menu">Menu</Link>
-            <Link to="/about">About</Link>
-            <Link to="/contact">Contact</Link>
+            <Link to="/react-test-site">Home</Link>
+            <Link to="/react-test-site/men">Menu</Link>
+            <Link to="/react-test-site/abou">About</Link>
+            <Link to="/react-test-site/contac">Contact</Link>
           </div>
         </div>
         <div className="rightSide">
-          <Link to="/">Home</Link>
-          <Link to="/menu">Menu</Link>
-          <Link to="/about">About</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/react-test-site">Home</Link>
+          <Link to="/react-test-site/men">Menu</Link>
+          <Link to="/react-test-site/abou">About</Link>
+          <Link to="/react-test-site/contac">Contact</Link>
           <button onClick={this.toggleNav}>
             <ReorderIcon />
           </button>
