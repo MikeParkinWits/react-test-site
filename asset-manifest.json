@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-test-site/static/css/main.fd6e61d6.css",
-    "main.js": "/react-test-site/static/js/main.710ea184.js",
+    "main.js": "/react-test-site/static/js/main.9b612259.js",
     "static/js/787.8adb1dee.chunk.js": "/react-test-site/static/js/787.8adb1dee.chunk.js",
     "static/media/HomepageBanner.jpg": "/react-test-site/static/media/HomepageBanner.503630aa0de90ed1d66e.jpg",
     "static/media/h.jpg": "/react-test-site/static/media/h.28d3dfba47d35c477271.jpg",
@@ -14,11 +14,11 @@
     "static/media/MoogSub.jpg": "/react-test-site/static/media/MoogSub.6a37ed4851a9a64ecb01.jpg",
     "index.html": "/react-test-site/index.html",
     "main.fd6e61d6.css.map": "/react-test-site/static/css/main.fd6e61d6.css.map",
-    "main.710ea184.js.map": "/react-test-site/static/js/main.710ea184.js.map",
+    "main.9b612259.js.map": "/react-test-site/static/js/main.9b612259.js.map",
     "787.8adb1dee.chunk.js.map": "/react-test-site/static/js/787.8adb1dee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd6e61d6.css",
-    "static/js/main.710ea184.js"
+    "static/js/main.9b612259.js"
   ]
 }
